@@ -1,0 +1,1 @@
+"use strict";function bindReload(){document.querySelectorAll('img[data-bind="cezaryPazura"]').forEach(n=>n.src=window.pazuraInternal)}window.pazuraInternal="https://pbs.twimg.com/profile_banners/1355620843401994243/1617737600/1500x500",Object.defineProperty(window,"cezaryPazura",{get:function(){return window.pazuraInternal},set:function(n){window.pazuraInternal=n,bindReload()}});
