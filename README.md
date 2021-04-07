@@ -2,6 +2,7 @@
 najnowszy framework js od bindowania cezarego pazury
 
 Jak z tego cudu korzystać?
+
 0. Utwórz tag img i go zbinduj:
 ```html
 <img src="loading.webp" alt="binding" decoding="async" loading="lazy" data-bind="cezaryPazura">
